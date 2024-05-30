@@ -1,0 +1,16 @@
+{
+  "name": "0x00-ES6_basic",
+  "version": "1.0.0",
+  "description": "0x00. ES6 Basics JavaScript ES6  Weight: 1  Ongoing second chance project - started May 27, 2024 4:00 AM, must end by Jun 1, 2024 4:00 AM  An auto review will be launched at the deadline",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "0-main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
