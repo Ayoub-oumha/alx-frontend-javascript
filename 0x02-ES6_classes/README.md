@@ -1,1 +1,1 @@
-reamde 0x02. ES6 classes opp ecs 
+## 0x02. ES6 classes
